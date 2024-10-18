@@ -106,12 +106,15 @@ curl -X POST -H "Content-Type: application/json" -d '{"title":"Introduction to N
 
 ## Screenshots
 - POST `/api/courses`:
+
 ![Screenshot 2024-10-19 003634](https://github.com/user-attachments/assets/fbbf604b-8deb-449d-9c64-6d01c3cbd820)
 
 - GET `/api/courses`:
+
 ![Screenshot 2024-10-19 003657](https://github.com/user-attachments/assets/a000a444-94ba-4a74-813a-74840785e76f)
 
 - GET `/api/courses/:id`:
+
 ![Screenshot 2024-10-19 003716](https://github.com/user-attachments/assets/74f0ba8b-4421-4242-a39d-aca0b0136e95)
 
 - PUT `/api/courses/:id`:
