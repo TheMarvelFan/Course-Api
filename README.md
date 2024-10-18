@@ -107,7 +107,3 @@ curl -X POST -H "Content-Type: application/json" -d '{"title":"Introduction to N
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
